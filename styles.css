@@ -1,0 +1,31 @@
+* {
+    background-color:honeydew;
+}
+h1,
+.recipes {
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 150px;
+    color: black;
+}
+.recipes {
+    font-size: 50px;
+    list-style: none;
+}
+a {
+    color: mediumspringgreen;
+}
+a:link { 
+    text-decoration: none; 
+}
+a:visited { 
+    text-decoration: none; 
+}
+a:hover {
+    color: rgb(169, 244, 119);
+}
+a:active { 
+    text-decoration: none; 
+}
