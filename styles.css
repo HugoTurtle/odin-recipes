@@ -1,5 +1,5 @@
 * {
-    background-color:honeydew;
+    background-color:rgb(254, 103, 76);
 }
 h1,
 .recipes {
@@ -15,7 +15,7 @@ h1 {
     list-style: none;
 }
 a {
-    color: mediumspringgreen;
+    color: rgb(246, 225, 90)
 }
 a:link { 
     text-decoration: none; 
@@ -24,7 +24,7 @@ a:visited {
     text-decoration: none; 
 }
 a:hover {
-    color: rgb(169, 244, 119);
+    color: rgb(255, 240, 144)
 }
 a:active { 
     text-decoration: none; 
