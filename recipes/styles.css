@@ -1,0 +1,15 @@
+* {
+    background-color:rgb(243, 240, 215);
+    text-align: center;
+    list-style: none;
+    color: rgb(255, 191, 134);
+}
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid #FFBF86;
+}
+h1 {
+    font-size: 100px;
+}
